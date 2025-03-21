@@ -18,3 +18,4 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_sponsorships: yes
+          plugin_traffic: yes
